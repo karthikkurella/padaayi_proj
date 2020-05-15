@@ -40,11 +40,11 @@ Character error rate: 13.956289%. Word accuracy: 67.721739%.
 <b>OUTPUT:</b>
 
 
-![Screenshot](./doc/1.png)
+![Screenshot](./doc/1.jpeg)
 
 
 <b> 
 
-![Screenshot](./doc/2.png)
+![Screenshot](./doc/2.jpeg)
 
 
