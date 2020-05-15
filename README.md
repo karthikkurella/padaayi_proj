@@ -9,7 +9,8 @@ As these word-images are smaller than images of complete text-lines, the NN can 
 
 ###accuracy
 
-74% of the words from the IAM dataset are correctly recognized by the NN when using vanilla beam search decoding.
+Custom dataset is prepared using the bounding box code
+
 
 <h1>Steps</h1>
 <p>1)Go to the wordsegmentaion/src/ directory and main.py. Take care that the image files are placed directly into the wordsegmentaion/data/d2 and not some subdirectory. Afterwards, go to the src/ directory and run python main.py. The input image and the  output will be placed in the wordsegmentaion/out/.</p>
