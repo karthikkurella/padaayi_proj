@@ -9,7 +9,7 @@ As these word-images are smaller than images of complete text-lines, the NN can 
 
 ###accuracy
 
-Custom dataset is prepared using the bounding box code
+Custom dataset is prepared using the bounding box code and telugu dataset available using the https://drive.google.com/drive/folders/1upKAsWD4mmiX3Ow8ly2dggVvyYS3SYI3?usp=sharing
 
 
 <h1>Steps</h1>
