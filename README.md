@@ -46,6 +46,6 @@ Character error rate: 13.956289%. Word accuracy: 67.721739%.
 
 <b> 
 
-![Screenshot](./doc/2.jpeg)
+![Alt text](./doc/2.jpeg)
 
 
